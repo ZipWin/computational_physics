@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}引言}{2}{section.1}
+\contentsline {section}{\numberline {2}基本的输入输出}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}任务描述}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}程序实现}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}运行时结果}{2}{subsection.2.3}
+\contentsline {section}{\numberline {3}矩阵乘法}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}任务描述}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}程序实现}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}运行时结果}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}排列数和组合数计算}{6}{section.4}
+\contentsline {subsection}{\numberline {4.1}任务描述}{6}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}程序实现}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}运行时结果}{7}{subsection.4.3}
