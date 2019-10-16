@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}引言}{2}{section.1}
+\contentsline {section}{\numberline {2}问题描述}{2}{section.2}
+\contentsline {section}{\numberline {3}使用的误差分析公式}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}拉格朗日插值和牛顿插值}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}分段立方样条插值}{3}{subsection.3.2}
+\contentsline {section}{\numberline {4}程序实现}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}拉格朗日插值}{4}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}牛顿插值}{5}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}分段立方样条插值}{7}{subsection.4.3}
+\contentsline {section}{\numberline {5}插值结果}{9}{section.5}
